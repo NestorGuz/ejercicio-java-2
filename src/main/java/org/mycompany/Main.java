@@ -2,9 +2,9 @@ package org.mycompany;
 
 public class Main {
     public static void main(String[] args) {
-        Coche myCoche = new Coche();
-        myCoche.agregarPuerta();
-        System.out.println(myCoche.puertas);
+        Coche miCoche = new Coche();
+        miCoche.agregarPuerta();
+        System.out.println(miCoche.puertas);
     }
 }
 
